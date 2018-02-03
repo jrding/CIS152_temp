@@ -1,0 +1,51 @@
+/* add your css on this page */
+body { 
+    background-color: #571349;
+    color: #E0D7DF;
+    margin: 0;
+    padding: 0;
+}
+
+#MainArticle {
+    background-color: #10020D;
+}
+
+img {
+    border: cornsilk 3px groove;
+    padding: 2px;
+}
+
+#GandB {
+    margin-left: 25px;
+    margin-top: 8px;
+}
+#menuPlanner,span {
+    float: right;
+    margin: 0 10px 0 20px;
+}
+
+nav {
+    position: absolute;
+    right: 2em;
+    top: 3em;
+}
+
+.navItem {
+    color: #252217;
+    background-color: cornsilk;
+    padding: 1.3em;
+    font-size: 1.3em;
+    font-weight: bolder;
+    text-decoration: none;
+    margin: .2em;
+    border: cornsilk 3px groove;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2em;
+}
+
+footer {
+    margin: 5px;
+}
